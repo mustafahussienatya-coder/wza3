@@ -1,0 +1,25 @@
+<?php
+
+return [
+    'distributor_created_successfully' => 'Distributor created successfully.',
+    'distributor_updated_successfully' => 'Distributor updated successfully.',
+    'distributor_status_updated_successfully' => 'Distributor status updated successfully.',
+    'distributor_retrieved' => 'Distributor retrieved successfully.',
+    'distributors_retrieved' => 'Distributors retrieved successfully.',
+    'custody_retrieved' => 'Distributor custody retrieved successfully.',
+    'custody_sellable_retrieved' => 'Sellable custody products retrieved successfully.',
+    'custody_statement_retrieved' => 'Custody statement retrieved successfully.',
+    'issues_retrieved' => 'Distributor issues retrieved successfully.',
+    'issue_created_successfully' => 'Distributor issue created successfully.',
+    'issue_updated_successfully' => 'Distributor issue updated successfully.',
+    'issue_retrieved' => 'Distributor issue retrieved successfully.',
+    'issue_submitted_successfully' => 'Distributor issue submitted for approval successfully.',
+    'issue_approved_successfully' => 'Distributor issue approved successfully.',
+    'issue_completed_successfully' => 'Distributor issue completed successfully.',
+    'issue_approved_and_disbursed_successfully' => 'Distributor issue approved and quantities disbursed successfully.',
+    'issue_cancelled_successfully' => 'Distributor issue cancelled successfully.',
+    'issue_corrected_successfully' => 'Distributor issue corrected successfully.',
+    'issue_returned_successfully' => 'Distributor issue returned to the warehouse successfully.',
+    'corrections_retrieved' => 'Corrections retrieved successfully.',
+    'dashboard_retrieved' => 'Dashboard data retrieved successfully.',
+];

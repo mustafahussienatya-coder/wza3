@@ -1,0 +1,25 @@
+<?php
+
+return [
+    'distributor_created_successfully' => 'تم إنشاء الموزع بنجاح.',
+    'distributor_updated_successfully' => 'تم تحديث بيانات الموزع بنجاح.',
+    'distributor_status_updated_successfully' => 'تم تحديث حالة الموزع بنجاح.',
+    'distributor_retrieved' => 'تم جلب بيانات الموزع بنجاح.',
+    'distributors_retrieved' => 'تم جلب الموزعين بنجاح.',
+    'custody_retrieved' => 'تم جلب عهدة الموزع بنجاح.',
+    'custody_sellable_retrieved' => 'تم جلب أصناف العهدة المتاحة للبيع بنجاح.',
+    'custody_statement_retrieved' => 'تم جلب كشف العهدة بنجاح.',
+    'issues_retrieved' => 'تم جلب إيصالات التسليم بنجاح.',
+    'issue_created_successfully' => 'تم إنشاء إيصال التسليم بنجاح.',
+    'issue_updated_successfully' => 'تم تحديث إيصال التسليم بنجاح.',
+    'issue_retrieved' => 'تم جلب إيصال التسليم بنجاح.',
+    'issue_submitted_successfully' => 'تم إرسال إيصال التسليم للاعتماد بنجاح.',
+    'issue_approved_successfully' => 'تم اعتماد إيصال التسليم بنجاح.',
+    'issue_completed_successfully' => 'تم إتمام إيصال التسليم بنجاح.',
+    'issue_approved_and_disbursed_successfully' => 'تم اعتماد الإيصال وصرف الكميات بنجاح.',
+    'issue_cancelled_successfully' => 'تم إلغاء إيصال التسليم بنجاح.',
+    'issue_corrected_successfully' => 'تم تصحيح إيصال التسليم بنجاح.',
+    'issue_returned_successfully' => 'تمت إعادة إيصال التسليم إلى المخزن بنجاح.',
+    'corrections_retrieved' => 'تم جلب التصحيحات بنجاح.',
+    'dashboard_retrieved' => 'تم جلب بيانات لوحة التحكم بنجاح.',
+];
